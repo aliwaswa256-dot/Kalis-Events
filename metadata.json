@@ -1,0 +1,8 @@
+{
+  "name": "KALIS EVENTS",
+  "description": "Professional Ugandan event production & equipment hire company: sound systems, stage setup, luxury tents, lighting, DJ equipment, booking and quotation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
